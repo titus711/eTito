@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">eTito</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="email_address">Email Address</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="forget_password">Forgot or Change Password?</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="password">Password</string>
+    <string name="account_already_exists_sign_in">User exists? Sign-in</string>
+    <string name="i_am_an_admin">I am an Admin</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="i_am_not_an_admin">I am not an Admin</string>
+    <string name="admin_sign_in">Admin Sign-in</string>
+    <string name="already_admin_sign_in">Already Admin? Sign-in</string>
+    <string name="please_register">Please Register</string>
+    <string name="user_sign_up">User Sign-Up</string>
+    <string name="admin_sign_up">Admin Sign-Up</string>
+    <string name="add_new_product">Add New Product</string>
+    <string name="product_name">Product Name.....</string>
+    <string name="product_description">Product Description.....</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_price">Product Price....</string>
+    <string name="close">Close</string>
+    <string name="change_profile">Change Profile</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="cart">Cart</string>
+    <string name="orders">Orders</string>
+    <string name="category">Category</string>
+    <string name="settings">Settings</string>
+    <string name="logout">Logout</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Cart</string>
+    <string name="menu_slideshow">Orders</string>
+    <string name="menu_tools">Settings</string>
+    <string name="menu_share">Logout</string>
+    <string name="menu_send">Category</string>
+    <string name="_product_name">Product Name</string>
+    <string name="_product_description">Product Description</string>
+    <string name="next">Next</string>
+    <string name="total_price">Total Price =</string>
+    <string name="other_pname">Product Name</string>
+    <string name="product_quantity">Product Quantity</string>
+    <string name="p_price">Product Price</string>
+    <string name="please_confirm_your_shipment_details">Please write your Shipment Details</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="confirm">Confirm</string>
+    <string name="new_orders">New Orders</string>
+    <string name="username">UserName</string>
+
+    <string name="address_city">Address, City</string>
+    <string name="change_password">Change Password</string>
+    <string name="submit">Submit</string>
+    <string name="mode">Mode</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "221713589539",
+    "firebase_url": "https://etito-bd612.firebaseio.com",
+    "project_id": "etito-bd612",
+    "storage_bucket": "etito-bd612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221713589539:android:4ce15b72e784fbc3015896",
+        "android_client_info": {
+          "package_name": "com.apo.etito"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221713589539-jaktne2i5d54ffhl3th1u2jug3dnmpnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apo.etito",
+            "certificate_hash": "43ce61ca6ccb5aaca03e16ea6820abb85fe8056e"
+          }
+        },
+        {
+          "client_id": "221713589539-qub8bq0hn6vsun02f61jij9f31v8cvvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjr_VG2K0YaVPiWGSqfWebypPecSHKm4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221713589539-qub8bq0hn6vsun02f61jij9f31v8cvvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
