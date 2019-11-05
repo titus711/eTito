@@ -25,6 +25,6 @@ Usage
 
 Sample Snapshots
 
-![image](https://user-images.githubusercontent.com/46360191/68255764-0949c780-ffe3-11e9-8e5f-f75feed69eac.png)
+![image](https://user-images.githubusercontent.com/46360191/68255764-0949c780-ffe3-11e9-8e5f-f75feed69eac.png) Figure 1: Main UI
 
-Main UI
+
