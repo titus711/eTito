@@ -54,3 +54,12 @@ Sample Snapshots
 ![image](https://user-images.githubusercontent.com/46360191/68257477-4b293c80-ffe8-11e9-9fd7-f406d66d5dc7.png) Figure 13: Admin Product Category and Logout
 
 
+![image](https://user-images.githubusercontent.com/46360191/68257722-149ff180-ffe9-11e9-829b-34ff1a6d15a3.png) Figure 14: Admin Add Product Category
+
+![image](https://user-images.githubusercontent.com/46360191/68257780-47e28080-ffe9-11e9-8a41-6902f952fd12.png) Figure 15: Admin ordered product details, amount and address etc
+
+![image](https://user-images.githubusercontent.com/46360191/68257818-6d6f8a00-ffe9-11e9-9d88-e8530365a156.png) Figure 16: Admin shipment confirmation details
+
+![image](https://user-images.githubusercontent.com/46360191/68257886-ae679e80-ffe9-11e9-90bc-1e7dd8ec8082.png)  Admin user ordered product details 
+
+
