@@ -41,3 +41,16 @@ Sample Snapshots
 ![image](https://user-images.githubusercontent.com/46360191/68256983-9e9a8b00-ffe6-11e9-9935-25af4338d92c.png) Figure 7: User Product Category
 
 
+![image](https://user-images.githubusercontent.com/46360191/68257281-97c04800-ffe7-11e9-9670-675b4d83f7da.png) Figure 8: User Add to Cart
+
+![image](https://user-images.githubusercontent.com/46360191/68257306-ab6bae80-ffe7-11e9-9c12-ab1650b00f26.png) Figure 9: User Product Details
+
+![image](https://user-images.githubusercontent.com/46360191/68257374-e2da5b00-ffe7-11e9-841d-331829ad4d2e.png) Figure 10: User Shipment details
+
+![image](https://user-images.githubusercontent.com/46360191/68257414-056c7400-ffe8-11e9-9b03-e1cc7724ad18.png) Figure 11: Product Shipment state
+
+![image](https://user-images.githubusercontent.com/46360191/68257448-2cc34100-ffe8-11e9-856b-fbd4a4dc489d.png) Figure 12: User profile updates and changes
+
+![image](https://user-images.githubusercontent.com/46360191/68257477-4b293c80-ffe8-11e9-9fd7-f406d66d5dc7.png) Figure 13: Admin Product Category
+
+
