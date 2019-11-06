@@ -28,3 +28,8 @@ Sample Snapshots
 ![image](https://user-images.githubusercontent.com/46360191/68255764-0949c780-ffe3-11e9-8e5f-f75feed69eac.png) Figure 1: Main UI
 
 
+![image](https://user-images.githubusercontent.com/46360191/68256467-0e0f7b00-ffe5-11e9-9676-00e24bf5d62c.png) Figure 2: User/Admin Registration
+
+![image](https://user-images.githubusercontent.com/46360191/68256539-4d3dcc00-ffe5-11e9-8fc9-8c16159a0e7d.png) Figure 3: User Sign-in
+
+
