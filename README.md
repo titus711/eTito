@@ -51,6 +51,6 @@ Sample Snapshots
 
 ![image](https://user-images.githubusercontent.com/46360191/68257448-2cc34100-ffe8-11e9-856b-fbd4a4dc489d.png) Figure 12: User profile updates and changes
 
-![image](https://user-images.githubusercontent.com/46360191/68257477-4b293c80-ffe8-11e9-9fd7-f406d66d5dc7.png) Figure 13: Admin Product Category
+![image](https://user-images.githubusercontent.com/46360191/68257477-4b293c80-ffe8-11e9-9fd7-f406d66d5dc7.png) Figure 13: Admin Product Category and Logout
 
 
